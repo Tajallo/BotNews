@@ -10,7 +10,7 @@ from datetime import datetime, timedelta
 TOKEN = "7485891031:AAFC1jn9x3M8-3h7-0rbtG7HeHv7nA-2raI"
 CHAT_ID = 6051894693
 BENZINGA_API_KEY = "403335b47327439da993a95256457f9e"
-CHECK_INTERVAL = 3600  # Verificar cada hora
+CHECK_INTERVAL = 5  # Verificar cada hora
 MAX_PRICE = 20  # Precio máximo para considerar una acción como small cap
 
 # Configuración de logging
